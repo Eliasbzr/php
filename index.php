@@ -1,0 +1,7 @@
+<?php
+
+
+Echo "Hello word";
+
+
+?>
